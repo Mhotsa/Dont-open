@@ -1,0 +1,44 @@
+.li_li{
+    font-size: 17px;
+}
+#navbar_nav_navbar{
+    position: sticky;
+    top: 0px;
+    z-index: 9999;
+    margin-top: 20px;
+}
+html{
+    scroll-behavior: smooth;
+}
+#Wishes{
+    background-image: radial-gradient(#f40000 25%,#ffa8d9 75%);
+    text-align: center;
+    margin: 5px;
+    width: 100%;
+}
+#Songs{
+    background-image: radial-gradient(#fbf312 25%,#fb8312 75%);
+    text-align: center;
+    margin: 5px;
+    width: 100%;
+}
+#Memes{
+    background-image: radial-gradient(#fbf 25%,#fb8 75%);
+    text-align: center;
+    margin: 5px;
+    width: 100%;
+}
+.trans_trans{
+    transition: 0.5s;
+    margin: 30px;
+}
+.trans_trans:hover{
+    transform: scale(1.2);
+}
+iframe{
+    margin: 10px;
+}
+#home{
+    background-image: linear-gradient(yellow, cyan, #ffa8d9);
+    padding: 20px;s
+}
